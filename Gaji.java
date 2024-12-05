@@ -1,14 +1,19 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
-public class Gaji {
-    static int masaKerja;
-    public static void main(String[] args) {
+public class Gaji{
+    public static int masaKerja;
+    public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
         masaKerja = input.nextInt();
         int jamLembur = input.nextInt();
 
-        System.out.print(TestReflection.class.getDeclaredMethods().length);
+        /* Pekerjaan anda mulai dari sini */
+
+        /* Pekerjaan anda berakhir sini */
+
+        System.out.println(Gaji.class.getDeclaredMethods().length);
+        System.out.println(Gaji.class.getDeclaredFields().length);
         
     }
     
