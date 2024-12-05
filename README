@@ -1,4 +1,4 @@
-#Soal latihan Pra Assessment
+**Soal latihan Pra Assessment**
 
 Dengan menggunakan soal modular untuk menyelesaikan masalah, buatlah program dengan ketentuan berikut.
 
@@ -18,7 +18,7 @@ Buatlah Program Java untuk menghitung gaji yang terdiri dari 2 buah function unt
 
 Output dari program ini adalah total gaji yang sudah dihitung dengan jumlah uang lembur
 
-#ArrayList
+**ArrayList**
 
 Buatlah prgram java untuk menghitung nilai rata-rata, nilai minimal, dan nilai maksimal, serta nilai maksimal dari arraylist. Arraylist disimpan dalam satu variabel global. Untuk menghitung nilai rata-rata, nilai minimal, dan nilai maksimal masing-masing ditulis dalam function tersendiri, yang berarti ada 3 function berbeda. ArrayList  akan diisi dengan angka dari user sampi user memilih pilihan “T” pada inputnya
 
